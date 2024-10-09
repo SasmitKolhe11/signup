@@ -7,10 +7,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+      // You can extend the default Tailwind theme here if needed
     },
   },
   plugins: [],
